@@ -764,7 +764,7 @@ msgstr "アップデートを自動的に確認する"
 
 #: packages/lib/models/settings/builtInMetadata.ts:1997
 msgid "Automatically delete notes in the trash after a number of days"
-msgstr ""
+msgstr "指定した日数後にゴミ箱内のノートを自動的に削除する"
 
 #: packages/lib/models/settings/builtInMetadata.ts:653
 msgid "Automatically switch theme to match system theme"
@@ -2378,7 +2378,7 @@ msgstr "ノートの履歴を有効にする"
 
 #: packages/lib/models/settings/builtInMetadata.ts:575
 msgid "Enable optical character recognition (OCR)"
-msgstr ""
+msgstr "光学文字認識（OCR）を有効にする"
 
 #: packages/lib/models/Setting.ts:1339
 msgid "Enable or disable plugins"
@@ -2400,7 +2400,7 @@ msgstr "ソフトブレークを有効にする"
 #: packages/lib/models/settings/builtInMetadata.ts:1484
 #, fuzzy
 msgid "Enable spell checking in Markdown editor"
-msgstr "テキストエディタでスペルチェックを有効にする"
+msgstr "マークダウンエディタでスペルチェックを有効にする"
 
 #: packages/lib/models/settings/builtInMetadata.ts:927
 msgid "Enable spellcheck in the text editor"
@@ -7411,6 +7411,8 @@ msgid ""
 "When enabled, the application will scan your attachments and extract the "
 "text from it. This will allow you to search for text in these attachments."
 msgstr ""
+"有効にすると、アプリケーションは添付ファイルをスキャンし、テキストを抽出します。"
+"これにより、添付ファイル内のテキストを検索できるようになります。"
 
 #: packages/app-desktop/ElectronAppWrapper.ts:280
 msgid "Window unresponsive."
